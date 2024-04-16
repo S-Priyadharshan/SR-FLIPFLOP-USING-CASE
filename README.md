@@ -49,7 +49,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 7) Check for Race Conditions: Ensure that there are no race conditions or undefined states in the design by analyzing the timing and sequence of input changes.
 
 **PROGRAM**
-
+Developed By: Priyadharshan S
+Reference No.: 212223240127
 ```
 module Exp_06 (q,q_bar,s,r,clk,reset);
 input s,r,clk,reset;
